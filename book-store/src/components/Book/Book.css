@@ -1,0 +1,15 @@
+
+
+.card{
+    width: 20vw;
+    box-shadow: 3px 3px  rgba(37, 36, 36, 0.491);
+    border: 2px solid rgba(66, 63, 63, 0.338);
+}
+img{
+    width: 19.7vw;
+    height: 30vh;
+}
+.margin{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
